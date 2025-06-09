@@ -47,7 +47,7 @@ function OurServices() {
     return (
         <div className='py-12 bg-white'>
             <div className='text-center mb-10'>
-                <h2 className='text-4xl font-semibold'>Our Services</h2>
+                <h2 className='text-6xl'>Our Services</h2>
             </div>
             <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 max-w-7xl mx-auto'>
                 {detail.map((value, index) => (

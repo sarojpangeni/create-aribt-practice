@@ -47,7 +47,7 @@ const responsive = {
 function Testimonial() {
     return (
         <div className="py-12 bg-white">
-            <h2 className="text-3xl font-semibold text-center mb-8">Testimonials</h2>
+            <h2 className="text-6xl text-center mb-8">Testimonials</h2>
             <Carousel
                 arrows={false}
                 autoPlaySpeed={3000}

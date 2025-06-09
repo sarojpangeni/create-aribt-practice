@@ -19,7 +19,7 @@ function AboutUs() {
         <div className='bg-white py-12 px-18'>
             <div className='max-w-7xl mx-auto grid lg:grid-cols-2 gap-12 items-center'>
                 <div>
-                    <h1 className='text-4xl font-semibold text-gray-600 mb-10'>About Us</h1>
+                    <h1 className='text-6xl  mb-10'>About Us</h1>
                     <p className='text-gray-500 mb-8 text-lg'>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, cum veniam alias adipisci nostrum corrupti saepe deserunt ad perferendis voluptatibus asperiores fugiat laudantium et, temporibus perspiciatis pariatur deleniti minus consequuntur.
                     </p>

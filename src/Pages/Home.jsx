@@ -6,6 +6,9 @@ import OurWork2 from '../Component/PageComponent/OurWork2'
 import Testimonial from '../Component/PageComponent/Testimonial'
 import OurServices from '../Component/PageComponent/OurServices'
 import AboutUs from '../Component/PageComponent/AboutUs'
+import OurTeam from '../Component/PageComponent/OurTeam'
+import Blog from '../Component/PageComponent/Blog'
+import ContactUs from '../Component/PageComponent/ContactUs'
 
 function Home() {
   return (
@@ -17,6 +20,9 @@ function Home() {
         <Testimonial />
         <OurServices />
         <AboutUs />
+        <OurTeam />
+        <Blog />
+        <ContactUs />
     </div>
   )
 }

@@ -21,7 +21,7 @@ function OurWork() {
     return (
         <div className='bg-white w-full h-full py-5'>
             <div className="flex flex-col gap-10 justify-center items-center py-6">
-                <h1 className="text-5xl tracking-wider font-poppins">Our Works</h1>
+                <h1 className="text-6xl tracking-wider font-poppins">Our Works</h1>
                 <p className="w-11/12 md:w-1/2 text-center font-sans text-gray-700 font-light tracking-wide">
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores,
                     itaque neque, delectus odio iure explicabo.
