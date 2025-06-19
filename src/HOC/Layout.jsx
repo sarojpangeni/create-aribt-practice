@@ -11,10 +11,10 @@ function Layout() {
             <img
                 src={backgroundImage}
                 alt="background"
-                className='fixed w-full h-full md:object-cover object-cover opacity-90 -z-50 top-0 right-0 left-0'
+                className='fixed w-full h-full -z-50 top-0 right-0 left-0'
             />
-            <SubHeader />
-            <Header />
+                <SubHeader />
+                <Header />
             <div>
                 <Outlet />
             </div>

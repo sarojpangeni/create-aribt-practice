@@ -13,16 +13,35 @@ import ContactUs from '../Component/PageComponent/ContactUs'
 function Home() {
   return (
     <div>
+      <section id='home'>
         <Banner />
+      </section>
+      <section id='inovate '>
         <Inovate />
+      </section>
+      <section id='work'>
         <OurWork />
         <OurWork2 />
+      </section>
+      <section id='testimonial'>
         <Testimonial />
+      </section>
+      <section id='services'>
         <OurServices />
+      </section>
+      <section id='about'>
         <AboutUs />
+      </section>
+      <section team>
         <OurTeam />
+      </section>
+      <section id='blog'>
         <Blog />
+      </section>
+      <section id='contact'>
         <ContactUs />
+      </section>
+
     </div>
   )
 }

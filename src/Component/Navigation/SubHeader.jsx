@@ -1,4 +1,3 @@
-import React from 'react'
 import { FaFacebookF } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
@@ -6,7 +5,7 @@ import { FaLinkedinIn } from "react-icons/fa";
 
 function SubHeader() {
     return (
-        <div className='flex bg-gray-700 md:items-center justify-between p-2 px-8 md:px-32'>
+        <div className='flex md:items-center justify-between p-2 px-8 md:px-32 w-full bg-gray-500'>
             <div className='flex gap-5'>
                 <div className=''>
                     <h1
